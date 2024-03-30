@@ -1,4 +1,4 @@
-# APT-AutoEncoders
+# APT-AutoEncoders (Aggregated models)
 
 Run the script:
 ```shell
