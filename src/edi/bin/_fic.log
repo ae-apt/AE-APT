@@ -1,0 +1,140 @@
+[1563303142] -- 16/07/2019 20:52:22 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 23.49 Mb
+[1563303142] -- 16/07/2019 20:52:29 * Finished (main,compress)
+						This took about 7 seconds, peak mem usage: 271.72 Mb
+[1563303343] -- 16/07/2019 20:55:43 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 23.49 Mb
+[1563303343] -- 16/07/2019 20:55:50 * Finished (main,compress)
+						This took about 7 seconds, peak mem usage: 271.72 Mb
+[1563303395] -- 16/07/2019 20:56:35 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 23.49 Mb
+[1563303395] -- 16/07/2019 20:56:42 * Finished (main,compress)
+						This took about 7 seconds, peak mem usage: 271.72 Mb
+[1563303601] -- 16/07/2019 21:00:01 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 23.27 Mb
+[1563303601] -- 16/07/2019 21:00:01 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 71.54 Mb
+[1563303627] -- 16/07/2019 21:00:27 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 22.60 Mb
+[1563303627] -- 16/07/2019 21:00:31 * Finished (main,compress)
+						This took about 4 seconds, peak mem usage: 54.40 Mb
+[1563303653] -- 16/07/2019 21:00:53 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 21.14 Mb
+[1563303653] -- 16/07/2019 21:00:53 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 67.79 Mb
+[1563303671] -- 16/07/2019 21:01:11 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 22.60 Mb
+[1563303671] -- 16/07/2019 21:01:11 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 69.46 Mb
+[1563303891] -- 16/07/2019 21:04:52 * Finished (datatrans,convertdb)
+						This took about 1 seconds, peak mem usage: 23.84 Mb
+[1563303892] -- 16/07/2019 21:04:52 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 71.32 Mb
+[1563303944] -- 16/07/2019 21:05:44 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 23.60 Mb
+[1563303944] -- 16/07/2019 21:05:46 * Finished (main,compress)
+						This took about 2 seconds, peak mem usage: 51.29 Mb
+[1563304154] -- 16/07/2019 21:09:14 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 23.43 Mb
+[1563304154] -- 16/07/2019 21:27:54 * Finished (main,compress)
+						This took about 1120 seconds, peak mem usage: 979.92 Mb
+[1563305448] -- 16/07/2019 21:30:48 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 23.14 Mb
+[1563305448] -- 16/07/2019 21:30:48 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 69.92 Mb
+[1563305533] -- 16/07/2019 21:32:13 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 26.62 Mb
+[1563305533] -- 17/07/2019 00:04:13 * Finished (main,compress)
+						This took about 9120 seconds, peak mem usage: 6658.40 Mb
+[1563314905] -- 17/07/2019 00:08:28 * Finished (datatrans,convertdb)
+						This took about 3 seconds, peak mem usage: 65.64 Mb
+[1563314908] -- 17/07/2019 02:01:31 * Finished (main,compress)
+						This took about 6783 seconds, peak mem usage: 1837.11 Mb
+[1563321859] -- 17/07/2019 02:04:21 * Finished (datatrans,convertdb)
+						This took about 2 seconds, peak mem usage: 61.26 Mb
+[1563321861] -- 17/07/2019 02:13:09 * Finished (main,compress)
+						This took about 528 seconds, peak mem usage: 314.09 Mb
+[1563322623] -- 17/07/2019 02:17:04 * Finished (datatrans,convertdb)
+						This took about 1 seconds, peak mem usage: 54.99 Mb
+[1563322624] -- 17/07/2019 02:17:24 * Finished (main,compress)
+						This took about 20 seconds, peak mem usage: 341.64 Mb
+[1563322714] -- 17/07/2019 02:18:35 * Finished (datatrans,convertdb)
+						This took about 1 seconds, peak mem usage: 27.48 Mb
+[1563322715] -- 17/07/2019 02:18:35 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 74.27 Mb
+[1563322748] -- 17/07/2019 02:19:08 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 54.82 Mb
+[1563322748] -- 17/07/2019 02:19:09 * Finished (main,compress)
+						This took about 1 seconds, peak mem usage: 183.74 Mb
+[1563322849] -- 17/07/2019 02:20:51 * Finished (datatrans,convertdb)
+						This took about 2 seconds, peak mem usage: 67.48 Mb
+[1563322851] -- 17/07/2019 02:21:07 * Finished (main,compress)
+						This took about 16 seconds, peak mem usage: 180.54 Mb
+[1563322900] -- 17/07/2019 02:21:41 * Finished (datatrans,convertdb)
+						This took about 1 seconds, peak mem usage: 61.19 Mb
+[1563322901] -- 17/07/2019 02:22:05 * Finished (main,compress)
+						This took about 24 seconds, peak mem usage: 352.51 Mb
+[1563323006] -- 17/07/2019 02:23:26 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 23.02 Mb
+[1563323006] -- 17/07/2019 02:23:58 * Finished (main,compress)
+						This took about 32 seconds, peak mem usage: 706.64 Mb
+[1563323151] -- 17/07/2019 02:25:52 * Finished (datatrans,convertdb)
+						This took about 1 seconds, peak mem usage: 60.23 Mb
+[1563323152] -- 17/07/2019 02:25:54 * Finished (main,compress)
+						This took about 2 seconds, peak mem usage: 243.49 Mb
+[1563323275] -- 17/07/2019 02:27:55 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 23.14 Mb
+[1563323275] -- 17/07/2019 02:27:56 * Finished (main,compress)
+						This took about 1 seconds, peak mem usage: 70.63 Mb
+[1563323291] -- 17/07/2019 02:28:11 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 22.87 Mb
+[1563323291] -- 17/07/2019 02:28:11 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 69.61 Mb
+[1563323306] -- 17/07/2019 02:28:26 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 21.14 Mb
+[1563323306] -- 17/07/2019 02:28:26 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 37.10 Mb
+[1563323321] -- 17/07/2019 02:28:41 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 21.02 Mb
+[1563323321] -- 17/07/2019 02:28:41 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 67.78 Mb
+[1563323338] -- 17/07/2019 02:28:58 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 23.21 Mb
+[1563323338] -- 17/07/2019 02:29:02 * Finished (main,compress)
+						This took about 4 seconds, peak mem usage: 122.88 Mb
+[1564583247] -- 31/07/2019 15:27:27 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 21.02 Mb
+[1564583247] -- 31/07/2019 15:27:27 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 42.68 Mb
+[1564584078] -- 31/07/2019 15:41:18 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 21.02 Mb
+[1564584078] -- 31/07/2019 15:41:18 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 42.68 Mb
+[1564584085] -- 31/07/2019 15:41:25 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 21.02 Mb
+[1564584085] -- 31/07/2019 15:41:25 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 42.68 Mb
+[1564587445] -- 31/07/2019 16:37:25 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 21.53 Mb
+[1564587445] -- 31/07/2019 16:37:25 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 68.28 Mb
+[1564587649] -- 31/07/2019 16:40:49 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 21.53 Mb
+[1564587649] -- 31/07/2019 16:40:49 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 68.27 Mb
+[1564588014] -- 31/07/2019 16:46:54 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 21.53 Mb
+[1564588014] -- 31/07/2019 16:46:54 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 68.28 Mb
+[1564588275] -- 31/07/2019 16:51:15 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 21.02 Mb
+[1564588275] -- 31/07/2019 16:51:15 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 67.79 Mb
+[1564588616] -- 31/07/2019 16:56:56 * Finished (datatrans,convertdb)
+						This took about 0 seconds, peak mem usage: 21.14 Mb
+[1564588616] -- 31/07/2019 16:56:56 * Finished (main,compress)
+						This took about 0 seconds, peak mem usage: 67.78 Mb
+[1564590332] -- 31/07/2019 17:25:35 * Finished (datatrans,convertdb)
+						This took about 3 seconds, peak mem usage: 47.42 Mb
+[1564590336] -- 31/07/2019 17:26:32 * Finished (main,compress)
+						This took about 56 seconds, peak mem usage: 5296.98 Mb
