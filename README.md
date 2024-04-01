@@ -1,4 +1,4 @@
-# APT-AutoEncoders (Aggregated models)
+# APT-AutoEncoders (Aggregated models: AE, AAE, ADAE, AELSTM, AERNN, AEGRU, ATAE) 
 
 Run the script:
 ```shell
